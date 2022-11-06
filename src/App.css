@@ -1,0 +1,137 @@
+
+.App {
+  text-align: center;
+  text-align: center;
+  width: fit-content;
+  inline-size: 30%;
+  margin-left: 30rem;
+  border: 5px solid blue;
+  border-radius: 1rem;
+  background: floralwhite;
+  background-image: url(./images/bg_img1.jpg)
+}
+h1{
+  color: whitesmoke;
+  text-align: center;
+}
+input{
+  height: 1.5rem;
+  border-radius: 1rem;
+  border: solid rgb(237, 11, 143) 0.5rem;
+  width: 15rem;
+  }
+  button{
+    background-color: rgb(40, 223, 4);
+    color: black;
+    height: 3rem;
+    border-radius: 1rem;
+    cursor: pointer;
+    width: 7rem;
+  }
+  .topic{
+   /* border: 1px solid black; */
+   background-color: bisque;
+   
+  }
+h2{
+  color: crimson;
+  border: 2px solid black;
+  background-color: chartreuse;
+  display: inline-block;
+  margin-left: 15%;
+}
+.textGrid{
+  color: crimson;
+  /* border: 2px solid black; */
+  
+}
+.DetailContainer{
+  border: 2px solid black;
+  display: inline-block;
+  height: 2rem;
+  width:10rem;
+  margin-top: 1rem;
+ text-align: center;
+  margin-left: 2rem;
+  padding-top: 20px;
+  border-radius: 1rem;
+  background-color: aqua;
+  color: black;
+}
+.App {
+  text-align: center;
+  /* background-image: url(./image/bg-img.jpg);
+  background-repeat: no-repeat;
+  background-size: cover; */
+}
+
+
+.inputStyl input{
+
+  border-width: 1rem;
+  font-size: 1rem;
+  height: 2rem;
+  inline-size: 20rem;
+  background-color: lightblue;
+}
+.inputStyl button{
+  height: 2rem;
+  width: 4rem;
+  font-size: 1rem;
+  font-weight: bolder;
+    cursor: pointer;
+    
+}
+.inputStyl h1{
+  border: 1rem solid #b53636;
+  display: inline-block;
+  background-color: #38e8dc;
+  color: #0a0a08;
+}
+.inputStyl{
+  border: 2rem solid lightskyblue;
+    inline-size: 40rem;
+    margin-left: 20rem;
+    background: burlywood;
+}
+.header{
+
+  border: 2px solid rgb(75, 247, 22);
+  width: 100%;
+  height: 50px;
+  background-color:brown;
+}
+li{
+  list-style: none;
+  float: left;
+ margin-right: 20px;
+}
+#nav{
+  color: bisque;
+  float: right;
+  margin-right: 10px;
+  border: 2px solid rgb(0, 0, 0);
+  background-color: #a48b9d;
+}
+.navItem{
+  background-color: aqua;
+}
+.form{
+  width: 50%;
+  background-color: white;
+}
+  .formContainer{
+    border: 2px solid red;
+    border-radius: 15px;
+    width: 50%;
+    text-align: center;
+    margin-left: 30%;
+    background-color: burlywood;
+  }
+  nav .active{
+    color: rgb(21, 227, 6);
+    font-size: larger;
+    background-color:pink;
+  }
+  
+  
